@@ -1,11 +1,11 @@
 class Solution {
     public int minimumPushes(String word) {
-        int l = word.length();
+        // int l = word.length();
         int p = 0;
-        if(l < 8){
-            return l;
+        if(word.length() < 8){
+            return word.length();
         }
-        int temp = l;
+        int temp = word.length();
         int i = 1;
         while(temp > 8){
             p += 8 * i;
