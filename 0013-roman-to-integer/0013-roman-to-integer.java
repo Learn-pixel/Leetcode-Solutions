@@ -1,9 +1,10 @@
 class Solution {
     public int romanToInt(String s) {
+        int n = s.length();
         int total = 0;
-        for(int i = 0; i < s.length(); i++){
+        for(int i = 0; i < n; i++){
             int curr = value(s.charAt(i));
-            if(i < s.length() - 1 && curr < value(s.charAt(i+1))){
+            if(i < n - 1 && curr < value(s.charAt(i+1))){
                 total -= curr;
             }
             else{
