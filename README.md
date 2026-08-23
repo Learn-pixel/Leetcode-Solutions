@@ -18,11 +18,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/Learn-pixel/Leetcode-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/Learn-pixel/Leetcode-Solutions/tree/main/0014-longest-common-prefix/) | Easy |
+| [0044-wildcard-matching](https://github.com/Learn-pixel/Leetcode-Solutions/tree/main/0044-wildcard-matching/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Learn-pixel/Leetcode-Solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Learn-pixel/Leetcode-Solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0044-wildcard-matching](https://github.com/Learn-pixel/Leetcode-Solutions/tree/main/0044-wildcard-matching/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Learn-pixel/Leetcode-Solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Learn-pixel/Leetcode-Solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 ## Hash Table
@@ -49,12 +51,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0044-wildcard-matching](https://github.com/Learn-pixel/Leetcode-Solutions/tree/main/0044-wildcard-matching/) | Hard |
 | [0486-predict-the-winner](https://github.com/Learn-pixel/Leetcode-Solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/Learn-pixel/Leetcode-Solutions/tree/main/0877-stone-game/) | Medium |
 | [1406-stone-game-iii](https://github.com/Learn-pixel/Leetcode-Solutions/tree/main/1406-stone-game-iii/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0044-wildcard-matching](https://github.com/Learn-pixel/Leetcode-Solutions/tree/main/0044-wildcard-matching/) | Hard |
 | [0486-predict-the-winner](https://github.com/Learn-pixel/Leetcode-Solutions/tree/main/0486-predict-the-winner/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
